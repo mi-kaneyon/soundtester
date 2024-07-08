@@ -1,7 +1,7 @@
 # soundtester
 - Ubuntu(Linux) sound input output check simply
   
-# loop back sound test
+# Audio loop back test
 <img src="loopback.jpg" width="50%" />
 
 # Create wave sound file for the test
