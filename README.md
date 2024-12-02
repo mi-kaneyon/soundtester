@@ -1,5 +1,20 @@
 # soundtester
 - Ubuntu(Linux) sound input output check simply
+# soundtester v2
+- File is named noisetester.py
+
+```python
+
+python noisetester.py
+
+```
+> [!TIP]
+> Loopback sound play and rec sine wave
+> If Play and Rec normal coefficient scores are over threshold, test is passed.
+
+<img src="sin.png" width="50%" />
+
+<img src="sindata.png" width="50%" />
   
 # Audio loop back test
 <img src="loopback.jpg" width="50%" />
